@@ -61,6 +61,8 @@ try run 2:
 ![Decision Maker Screenshot](./app/assets/images/ui_decision_picker2.jpg)
 
 
+
+🎬 Watch Cinevark Demo on YouTube
 [![🎬 Watch Cinevark Demo on YouTube](https://img.youtube.com/vi/ef5QSthftWM/hqdefault.jpg)](https://youtu.be/ef5QSthftWM)
 
 
