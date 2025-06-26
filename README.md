@@ -33,7 +33,7 @@ Cinevark is an AI-powered movie recommendation web app that helps users discover
 
 ## 📁 Project Structure
 
-![Cinevark-project](./app/assets/images/ui_main.jpg)
+![Cinevark-project](./app/assets/images/project_structure.png)
 
 ---
 
